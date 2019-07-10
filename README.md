@@ -8,3 +8,9 @@ WebDevops项目是一套模仿jekins+cms的系统，基于SpringBoot+JPA实现�
 
 
 # 组织结构
+WebDevops
+├── devops-common -- 工具类及通用代码
+├── devops-refact -- rpc中的通用实体类与接口
+├── devops-sso -- 单点登录服务器
+├── devops-Automate -- 持续化集成系统
+└──  devops-cms -- cms系统
